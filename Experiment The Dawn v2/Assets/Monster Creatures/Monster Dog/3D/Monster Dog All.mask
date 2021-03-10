@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Monster Dog All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Monster Dog
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+      Dog L Foot
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+      Dog L Foot/Monster Dog L Toe0
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+      Dog R Foot
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+      Dog R Foot/Monster Dog R Toe0
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog L Clavicle
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+      Dog L Hand
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+      Dog L Hand/Monster Dog L Finger0
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog Neck
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog Neck/Monster Dog Head
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog Neck/Monster Dog Head/Monster Dog Jaw
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog R Clavicle
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+      Dog R Hand
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+      Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+      Dog R Hand/Monster Dog R Finger0
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail
+    m_Weight: 1
+  - m_Path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail/Monster Dog Tail02
+    m_Weight: 1
+  - m_Path: Monster Dog Mesh
+    m_Weight: 1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 44c257efc4dadac4e89395899494e747, type: 3}
+  m_Name: SunBear Sword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 8dd466cdda0c86f47b9aa38e068d0a0f, type: 3}
+  itemName: SunBear Sword
+  modelPrefab: {fileID: 6151302079809488560, guid: 80d215e458531b14e9f765805ea10bd2, type: 3}
+  isUnarmed: 0
+  right_Hand_Idle: Right_Arm_Idle_01
+  left_Hand_Idle: Left_Arm_Idle_01
+  OH_Light_Attack_01: OH_Light_Attack_01
+  OH_Heavy_Attack_01: OH_Heavy_Attack_01
+  OH_Light_Attack_02: OH_Light_Attack_02
+  OH_Heavy_Attack_02: OH_Heavy_Attack_02
+  OH_Special_Attack: OH_Special_Attack
+  baseStamina: 25
+  lightAttackMultiplier: 1
+  heavyAttackMultiplier: 2
+  lightAttackSoundFX: {fileID: 8300000, guid: 6578744e71d287f4d93a4479865d8f43, type: 3}
+  heavyAttackSoundFX: {fileID: 8300000, guid: b7f0b3ef253309c499c045984205cb3b, type: 3}

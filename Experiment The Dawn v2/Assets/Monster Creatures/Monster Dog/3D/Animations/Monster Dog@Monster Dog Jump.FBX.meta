@@ -1,0 +1,824 @@
+fileFormatVersion: 2
+guid: 82ba03f224c63914d88a75a269040888
+timeCreated: 1557448004
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Monster Dog
+    100002: Monster Dog Head
+    100004: Monster Dog Jaw
+    100006: Monster Dog L Calf
+    100008: Monster Dog L Clavicle
+    100010: Monster Dog L Finger0
+    100012: Monster Dog L Foot
+    100014: Monster Dog L Forearm
+    100016: Monster Dog L Hand
+    100018: Monster Dog L Thigh
+    100020: Monster Dog L Toe0
+    100022: Monster Dog L UpperArm
+    100024: Monster Dog Neck
+    100026: Monster Dog Pelvis
+    100028: Monster Dog R Calf
+    100030: Monster Dog R Clavicle
+    100032: Monster Dog R Finger0
+    100034: Monster Dog R Foot
+    100036: Monster Dog R Forearm
+    100038: Monster Dog R Hand
+    100040: Monster Dog R Thigh
+    100042: Monster Dog R Toe0
+    100044: Monster Dog R UpperArm
+    100046: Monster Dog Spine
+    100048: Monster Dog Spine1
+    100050: Monster Dog Spine2
+    100052: Monster Dog Tail
+    100054: Monster Dog Tail02
+    100056: //RootNode
+    400000: Monster Dog
+    400002: Monster Dog Head
+    400004: Monster Dog Jaw
+    400006: Monster Dog L Calf
+    400008: Monster Dog L Clavicle
+    400010: Monster Dog L Finger0
+    400012: Monster Dog L Foot
+    400014: Monster Dog L Forearm
+    400016: Monster Dog L Hand
+    400018: Monster Dog L Thigh
+    400020: Monster Dog L Toe0
+    400022: Monster Dog L UpperArm
+    400024: Monster Dog Neck
+    400026: Monster Dog Pelvis
+    400028: Monster Dog R Calf
+    400030: Monster Dog R Clavicle
+    400032: Monster Dog R Finger0
+    400034: Monster Dog R Foot
+    400036: Monster Dog R Forearm
+    400038: Monster Dog R Hand
+    400040: Monster Dog R Thigh
+    400042: Monster Dog R Toe0
+    400044: Monster Dog R UpperArm
+    400046: Monster Dog Spine
+    400048: Monster Dog Spine1
+    400050: Monster Dog Spine2
+    400052: Monster Dog Tail
+    400054: Monster Dog Tail02
+    400056: //RootNode
+    7400000: Monster Dog Jump Up
+    7400002: Monster Dog Fall
+    7400004: Monster Dog Land
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Monster Dog Jump Up
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster Dog
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+          Dog L Foot
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+          Dog L Foot/Monster Dog L Toe0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+          Dog R Foot
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+          Dog R Foot/Monster Dog R Toe0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+          Dog L Hand
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+          Dog L Hand/Monster Dog L Finger0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck/Monster Dog Head
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck/Monster Dog Head/Monster Dog Jaw
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+          Dog R Hand
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+          Dog R Hand/Monster Dog R Finger0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail/Monster Dog Tail02
+        weight: 1
+      - path: Monster Dog Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: c972ce254085a594892642cb08e1cbab, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Monster Dog Fall
+      takeName: Take 001
+      firstFrame: 40
+      lastFrame: 70
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster Dog
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+          Dog L Foot
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+          Dog L Foot/Monster Dog L Toe0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+          Dog R Foot
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+          Dog R Foot/Monster Dog R Toe0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+          Dog L Hand
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+          Dog L Hand/Monster Dog L Finger0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck/Monster Dog Head
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck/Monster Dog Head/Monster Dog Jaw
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+          Dog R Hand
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+          Dog R Hand/Monster Dog R Finger0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail/Monster Dog Tail02
+        weight: 1
+      - path: Monster Dog Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: c972ce254085a594892642cb08e1cbab, type: 2}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Monster Dog Land
+      takeName: Take 001
+      firstFrame: 80
+      lastFrame: 110
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 1
+      loopBlendPositionY: 1
+      loopBlendPositionXZ: 1
+      keepOriginalOrientation: 1
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Monster Dog
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+          Dog L Foot
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog L Thigh/Monster Dog L Calf/Monster
+          Dog L Foot/Monster Dog L Toe0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+          Dog R Foot
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog R Thigh/Monster Dog R Calf/Monster
+          Dog R Foot/Monster Dog R Toe0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+          Dog L Hand
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog L Clavicle/Monster Dog L UpperArm/Monster Dog L Forearm/Monster
+          Dog L Hand/Monster Dog L Finger0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck/Monster Dog Head
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog Neck/Monster Dog Head/Monster Dog Jaw
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+          Dog R Hand
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Spine/Monster Dog Spine1/Monster
+          Dog Spine2/Monster Dog R Clavicle/Monster Dog R UpperArm/Monster Dog R Forearm/Monster
+          Dog R Hand/Monster Dog R Finger0
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail
+        weight: 1
+      - path: Monster Dog/Monster Dog Pelvis/Monster Dog Tail/Monster Dog Tail02
+        weight: 1
+      - path: Monster Dog Mesh
+        weight: 1
+      maskType: 1
+      maskSource: {fileID: 31900000, guid: c972ce254085a594892642cb08e1cbab, type: 2}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 1
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Monster Dog Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster Dog Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Monster Dog(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster Dog
+      parentName: Monster Dog(Clone)
+      position: {x: -0.000000022344855, y: 0.507, z: -0.51119065}
+      rotation: {x: -0.21393925, y: 0.2139387, z: 0.67396563, w: 0.67396635}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster Dog Pelvis
+      parentName: Monster Dog
+      position: {x: -0.34418562, y: -0.00000044703484, z: 0.40288323}
+      rotation: {x: -0.00000078976154, y: 0.7071079, z: 0.70710576, w: 0.00000020861626}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Monster Dog L Thigh
+      parentName: Monster Dog Pelvis
+      position: {x: 0.00000019073485, y: 0.00000022888183, z: 0.14419249}
+      rotation: {x: 0.35150924, y: 0.88385594, z: 0.2475156, w: 0.18432572}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: Monster Dog L Calf
+      parentName: Monster Dog L Thigh
+      position: {x: -0.24577054, y: -0.000000038146972, z: 0.000000038146972}
+      rotation: {x: 0.023141304, y: 0.082388975, z: 0.14253429, w: 0.98608345}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Monster Dog L Foot
+      parentName: Monster Dog L Calf
+      position: {x: -0.24399318, y: 0.000000009536743, z: -0.000000038146972}
+      rotation: {x: 0.2670752, y: 0.002377532, z: 0.0895264, w: 0.9595052}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: Monster Dog L Toe0
+      parentName: Monster Dog L Foot
+      position: {x: -0.07563301, y: 0.16218573, z: 0.000000038146972}
+      rotation: {x: 0.080005385, y: 0.005480191, z: 0.9944492, w: -0.06811757}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: Monster Dog R Thigh
+      parentName: Monster Dog Pelvis
+      position: {x: -0.0000002479553, y: -0.00000015258789, z: -0.14419249}
+      rotation: {x: 0.35151005, y: 0.88385534, z: -0.2475174, w: -0.18432465}
+      scale: {x: 0.9999998, y: 1, z: 0.9999999}
+    - name: Monster Dog R Calf
+      parentName: Monster Dog R Thigh
+      position: {x: -0.2457705, y: 0.000000038146972, z: 0}
+      rotation: {x: -0.023210356, y: -0.059990786, z: 0.17515288, w: 0.9824378}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: Monster Dog R Foot
+      parentName: Monster Dog R Calf
+      position: {x: -0.24399315, y: -0.000000019073486, z: 0}
+      rotation: {x: -0.2665211, y: 0.01733595, z: 0.16007811, w: 0.9502847}
+      scale: {x: 1, y: 0.9999998, z: 1}
+    - name: Monster Dog R Toe0
+      parentName: Monster Dog R Foot
+      position: {x: -0.07563301, y: 0.1621857, z: 0}
+      rotation: {x: -0.080005415, y: -0.005480198, z: 0.99444914, w: -0.06811757}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Monster Dog Spine
+      parentName: Monster Dog Pelvis
+      position: {x: -0.07573826, y: -0.00017868042, z: 0.00000010528179}
+      rotation: {x: -0.0000021893072, y: 0.0000008512513, z: -0.26279688, w: 0.9648512}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Monster Dog Spine1
+      parentName: Monster Dog Spine
+      position: {x: -0.26037583, y: -0.0002034378, z: -5.6439603e-10}
+      rotation: {x: -2.3034698e-14, y: 0.00000026697936, z: -0.09625733, w: 0.9953565}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Monster Dog Spine2
+      parentName: Monster Dog Spine1
+      position: {x: -0.26039082, y: -0.00020000458, z: -5.5479177e-10}
+      rotation: {x: -6.4537155e-14, y: 0.0000003690733, z: -0.1330665, w: 0.9911071}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Monster Dog L Clavicle
+      parentName: Monster Dog Spine2
+      position: {x: -0.26033622, y: -0.000000076293944, z: 0.052567866}
+      rotation: {x: -0.6173291, y: 0.1290466, z: 0.7757041, w: -0.023130724}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Monster Dog L UpperArm
+      parentName: Monster Dog L Clavicle
+      position: {x: -0.41269606, y: -0.000000038146972, z: 0.000000019073486}
+      rotation: {x: -0.6469592, y: 0.13946669, z: 0.00006768105, w: 0.7496619}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: Monster Dog L Forearm
+      parentName: Monster Dog L UpperArm
+      position: {x: -0.21448398, y: 0.000000014305114, z: -0.000000038146972}
+      rotation: {x: -0.010477538, y: 0.02306686, z: 0.016875423, w: 0.9995366}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Monster Dog L Hand
+      parentName: Monster Dog L Forearm
+      position: {x: -0.2984761, y: -0.0000000047683715, z: 0.000000038146972}
+      rotation: {x: -0.2694936, y: -0.08129779, z: 0.039164234, w: 0.95876485}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: Monster Dog L Finger0
+      parentName: Monster Dog L Hand
+      position: {x: -0.17253537, y: -0.0015586114, z: -0.025829162}
+      rotation: {x: -0.00039815716, y: 0.000000001630556, z: -0.0000000018619961,
+        w: 0.99999994}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Monster Dog Neck
+      parentName: Monster Dog Spine2
+      position: {x: -0.27721885, y: -0.0013541412, z: -0.000000021794184}
+      rotation: {x: -0.00000008143228, y: 0.0000004563996, z: -0.22739294, w: 0.97380316}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: Monster Dog Head
+      parentName: Monster Dog Neck
+      position: {x: -0.1739932, y: 0.0029631043, z: -0.000000016736522}
+      rotation: {x: -1.3186252e-12, y: -0.0000019571264, z: 0.70562726, w: 0.70858324}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Monster Dog Jaw
+      parentName: Monster Dog Head
+      position: {x: 0.14950065, y: 0.09756658, z: 0.00000012008975}
+      rotation: {x: 1.3996288e-12, y: 0.000002224061, z: -0.80186826, w: 0.5975009}
+      scale: {x: 1, y: 0.99999994, z: 1}
+    - name: Monster Dog R Clavicle
+      parentName: Monster Dog Spine2
+      position: {x: -0.26033622, y: 0.00000015258789, z: -0.05256786}
+      rotation: {x: 0.6173276, y: -0.12904933, z: 0.77570474, w: -0.023132754}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster Dog R UpperArm
+      parentName: Monster Dog R Clavicle
+      position: {x: -0.41269603, y: 0.000000038146972, z: -0.000000057220458}
+      rotation: {x: 0.6469592, y: -0.13946705, z: 0.00006729364, w: 0.7496618}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: Monster Dog R Forearm
+      parentName: Monster Dog R UpperArm
+      position: {x: -0.214484, y: 0.0000000047683715, z: -0.000000038146972}
+      rotation: {x: 0.0104776295, y: -0.023066783, z: 0.016874772, w: 0.99953663}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+    - name: Monster Dog R Hand
+      parentName: Monster Dog R Forearm
+      position: {x: -0.29847613, y: 0.000000021457671, z: 0.000000038146972}
+      rotation: {x: 0.26949352, y: 0.08129825, z: 0.039164584, w: 0.95876485}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+    - name: Monster Dog R Finger0
+      parentName: Monster Dog R Hand
+      position: {x: -0.17253537, y: -0.0015586066, z: 0.025829162}
+      rotation: {x: 0.00039815903, y: 0.0000000034917178, z: -0.0000000018640356,
+        w: 0.99999994}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: Monster Dog Tail
+      parentName: Monster Dog Pelvis
+      position: {x: 0.14523171, y: 0.00000008355957, z: -0.015270843}
+      rotation: {x: 0.16470133, y: 0.68765706, z: 0.68765897, w: -0.16470087}
+      scale: {x: 0.99999994, y: 0.9999999, z: 1}
+    - name: Monster Dog Tail02
+      parentName: Monster Dog Tail
+      position: {x: -0.14175667, y: -0.00011253357, z: -3.1213856e-10}
+      rotation: {x: 1.2372281e-13, y: 0.00000011108195, z: -0.040049747, w: 0.9991977}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster Dog Mesh
+      parentName: Monster Dog(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {fileID: 9000000, guid: cd499bff3dea4654b8f0cc9de5fafd13,
+    type: 3}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

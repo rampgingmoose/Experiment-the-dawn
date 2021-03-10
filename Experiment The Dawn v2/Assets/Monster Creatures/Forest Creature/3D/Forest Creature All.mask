@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Forest Creature All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Forest Creature
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature L Thigh
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature L Thigh/Forest
+      Creature L Calf
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature L Thigh/Forest
+      Creature L Calf/Forest Creature L Foot
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature L Thigh/Forest
+      Creature L Calf/Forest Creature L Foot/Forest Creature L Toe0
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature R Thigh
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature R Thigh/Forest
+      Creature R Calf
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature R Thigh/Forest
+      Creature R Calf/Forest Creature R Foot
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature R Thigh/Forest
+      Creature R Calf/Forest Creature R Foot/Forest Creature R Toe0
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger0
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger0/Forest Creature
+      L Finger01
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger1
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger1/Forest Creature
+      L Finger11
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger2
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger2/Forest Creature
+      L Finger21
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger3
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature L Clavicle/Forest Creature L UpperArm/Forest
+      Creature L Forearm/Forest Creature L Hand/Forest Creature L Finger3/Forest Creature
+      L Finger31
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature Neck
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature Neck/Forest Creature Head
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger0
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger0/Forest Creature
+      R Finger01
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger1
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger1/Forest Creature
+      R Finger11
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger2
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger2/Forest Creature
+      R Finger21
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger3
+    m_Weight: 1
+  - m_Path: Forest Creature/Forest Creature Pelvis/Forest Creature Spine/Forest Creature
+      Spine1/Forest Creature Spine2/Forest Creature R Clavicle/Forest Creature R UpperArm/Forest
+      Creature R Forearm/Forest Creature R Hand/Forest Creature R Finger3/Forest Creature
+      R Finger31
+    m_Weight: 1
+  - m_Path: Forest Creature Mesh
+    m_Weight: 1

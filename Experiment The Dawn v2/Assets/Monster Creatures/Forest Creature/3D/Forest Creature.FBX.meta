@@ -1,0 +1,692 @@
+fileFormatVersion: 2
+guid: d5a40fd291c00d940b6aeb1d5197df9d
+timeCreated: 1548862602
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Forest Creature
+    100004: Forest Creature Head
+    100006: Forest Creature L Calf
+    100008: Forest Creature L Clavicle
+    100010: Forest Creature L Finger0
+    100012: Forest Creature L Finger01
+    100014: Forest Creature L Finger1
+    100016: Forest Creature L Finger11
+    100018: Forest Creature L Finger2
+    100020: Forest Creature L Finger21
+    100022: Forest Creature L Finger3
+    100024: Forest Creature L Finger31
+    100026: Forest Creature L Foot
+    100028: Forest Creature L Forearm
+    100030: Forest Creature L Hand
+    100032: Forest Creature L Thigh
+    100034: Forest Creature L Toe0
+    100036: Forest Creature L UpperArm
+    100038: Forest Creature Mesh
+    100040: Forest Creature Neck
+    100042: Forest Creature Pelvis
+    100044: Forest Creature R Calf
+    100046: Forest Creature R Clavicle
+    100048: Forest Creature R Finger0
+    100050: Forest Creature R Finger01
+    100052: Forest Creature R Finger1
+    100054: Forest Creature R Finger11
+    100056: Forest Creature R Finger2
+    100058: Forest Creature R Finger21
+    100060: Forest Creature R Finger3
+    100062: Forest Creature R Finger31
+    100064: Forest Creature R Foot
+    100066: Forest Creature R Forearm
+    100068: Forest Creature R Hand
+    100070: Forest Creature R Thigh
+    100072: Forest Creature R Toe0
+    100074: Forest Creature R UpperArm
+    100076: Forest Creature Spine
+    100078: Forest Creature Spine1
+    100080: Forest Creature Spine2
+    400000: //RootNode
+    400002: Forest Creature
+    400004: Forest Creature Head
+    400006: Forest Creature L Calf
+    400008: Forest Creature L Clavicle
+    400010: Forest Creature L Finger0
+    400012: Forest Creature L Finger01
+    400014: Forest Creature L Finger1
+    400016: Forest Creature L Finger11
+    400018: Forest Creature L Finger2
+    400020: Forest Creature L Finger21
+    400022: Forest Creature L Finger3
+    400024: Forest Creature L Finger31
+    400026: Forest Creature L Foot
+    400028: Forest Creature L Forearm
+    400030: Forest Creature L Hand
+    400032: Forest Creature L Thigh
+    400034: Forest Creature L Toe0
+    400036: Forest Creature L UpperArm
+    400038: Forest Creature Mesh
+    400040: Forest Creature Neck
+    400042: Forest Creature Pelvis
+    400044: Forest Creature R Calf
+    400046: Forest Creature R Clavicle
+    400048: Forest Creature R Finger0
+    400050: Forest Creature R Finger01
+    400052: Forest Creature R Finger1
+    400054: Forest Creature R Finger11
+    400056: Forest Creature R Finger2
+    400058: Forest Creature R Finger21
+    400060: Forest Creature R Finger3
+    400062: Forest Creature R Finger31
+    400064: Forest Creature R Foot
+    400066: Forest Creature R Forearm
+    400068: Forest Creature R Hand
+    400070: Forest Creature R Thigh
+    400072: Forest Creature R Toe0
+    400074: Forest Creature R UpperArm
+    400076: Forest Creature Spine
+    400078: Forest Creature Spine1
+    400080: Forest Creature Spine2
+    2100000: Forest Creature
+    2300000: //RootNode
+    2300002: Forest Creature Mesh
+    3300000: //RootNode
+    3300002: Forest Creature Mesh
+    4300000: Group1
+    4300002: Forest Creature Mesh
+    9500000: //RootNode
+    13700000: Forest Creature Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Forest Creature
+    second: {fileID: 2100000, guid: f4b56829d7f3f664d8e1ee56f2f966fc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Forest Creature Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature L Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger3
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature R Finger31
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Forest Creature Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Forest Creature(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.000000553289, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Forest Creature
+      parentName: Forest Creature(Clone)
+      position: {x: -0, y: 0.98631793, z: 0.000000077335415}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Forest Creature Pelvis
+      parentName: Forest Creature
+      position: {x: 0, y: 0, z: 0.046744764}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Forest Creature Spine
+      parentName: Forest Creature Pelvis
+      position: {x: -0.061081618, y: -0.00012084659, z: 0.0000000848755}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+    - name: Forest Creature Spine1
+      parentName: Forest Creature Spine
+      position: {x: -0.15295288, y: -0.00011947632, z: -3.3141986e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000001}
+    - name: Forest Creature Spine2
+      parentName: Forest Creature Spine1
+      position: {x: -0.15295264, y: -0.00011947632, z: -3.3138348e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.9999999, z: 0.9999999}
+    - name: Forest Creature Neck
+      parentName: Forest Creature Spine2
+      position: {x: -0.15301986, y: -0.00008159637, z: -2.2628227e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 0.99999994}
+    - name: Forest Creature Head
+      parentName: Forest Creature Neck
+      position: {x: -0.116115265, y: -0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000006}
+    - name: Forest Creature L Clavicle
+      parentName: Forest Creature Spine2
+      position: {x: -0.12290313, y: -0.008265304, z: 0.03088946}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1, y: 1.0000008, z: 1.0000007}
+    - name: Forest Creature L UpperArm
+      parentName: Forest Creature L Clavicle
+      position: {x: -0.106483534, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000001}
+    - name: Forest Creature L Forearm
+      parentName: Forest Creature L UpperArm
+      position: {x: -0.22775291, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000005}
+    - name: Forest Creature L Hand
+      parentName: Forest Creature L Forearm
+      position: {x: -0.26476708, y: 0, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: Forest Creature L Finger2
+      parentName: Forest Creature L Hand
+      position: {x: -0.14883152, y: 0.0016717529, z: 0.018954916}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999997, y: 1.0000002, z: 1.0000001}
+    - name: Forest Creature L Finger21
+      parentName: Forest Creature L Finger2
+      position: {x: -0.09148006, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999946, y: 1, z: 0.99999976}
+    - name: Forest Creature L Finger1
+      parentName: Forest Creature L Hand
+      position: {x: -0.14353943, y: 0.0039338684, z: -0.036285747}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.000001, z: 1.0000007}
+    - name: Forest Creature L Finger11
+      parentName: Forest Creature L Finger1
+      position: {x: -0.07759037, y: -0.000000076293944, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1, z: 1.0000004}
+    - name: Forest Creature L Finger3
+      parentName: Forest Creature L Hand
+      position: {x: -0.15020606, y: 0.012546844, z: 0.076142006}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1.0000007, z: 1.0000005}
+    - name: Forest Creature L Finger31
+      parentName: Forest Creature L Finger3
+      position: {x: -0.07899643, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000004, z: 1.0000001}
+    - name: Forest Creature L Finger0
+      parentName: Forest Creature L Hand
+      position: {x: -0.035282746, y: 0.011168746, z: -0.07006277}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 1, y: 1.0000004, z: 1.0000012}
+    - name: Forest Creature L Finger01
+      parentName: Forest Creature L Finger0
+      position: {x: -0.084346466, y: -0.000000076293944, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999995, z: 0.99999917}
+    - name: Forest Creature R Clavicle
+      parentName: Forest Creature Spine2
+      position: {x: -0.12290313, y: -0.008265113, z: -0.030889504}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000012, y: 1.0000005, z: 0.99999994}
+    - name: Forest Creature R UpperArm
+      parentName: Forest Creature R Clavicle
+      position: {x: -0.1064835, y: 0, z: -0.00000015258789}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000015, y: 1.0000012, z: 1.0000014}
+    - name: Forest Creature R Forearm
+      parentName: Forest Creature R UpperArm
+      position: {x: -0.22775286, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000005}
+    - name: Forest Creature R Hand
+      parentName: Forest Creature R Forearm
+      position: {x: -0.26476708, y: 0, z: -0.000000076293944}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000004}
+    - name: Forest Creature R Finger2
+      parentName: Forest Creature R Hand
+      position: {x: -0.14883152, y: 0.0016718291, z: -0.018954925}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 0.9999997}
+    - name: Forest Creature R Finger21
+      parentName: Forest Creature R Finger2
+      position: {x: -0.0914801, y: 0, z: -0.000000009536743}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000002}
+    - name: Forest Creature R Finger1
+      parentName: Forest Creature R Hand
+      position: {x: -0.1435395, y: 0.0039339447, z: 0.036285732}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000008, z: 0.9999997}
+    - name: Forest Creature R Finger11
+      parentName: Forest Creature R Finger1
+      position: {x: -0.077590406, y: -0.000000076293944, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000004}
+    - name: Forest Creature R Finger3
+      parentName: Forest Creature R Hand
+      position: {x: -0.15020618, y: 0.01254692, z: -0.076142006}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000014, y: 1.0000012, z: 1.0000001}
+    - name: Forest Creature R Finger31
+      parentName: Forest Creature R Finger3
+      position: {x: -0.07899643, y: -0.000000076293944, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 0.9999999}
+    - name: Forest Creature R Finger0
+      parentName: Forest Creature R Hand
+      position: {x: -0.03528282, y: 0.011168746, z: 0.07006276}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000011, y: 1.0000008, z: 1.0000006}
+    - name: Forest Creature R Finger01
+      parentName: Forest Creature R Finger0
+      position: {x: -0.084346466, y: -0.000000076293944, z: -0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 1}
+    - name: Forest Creature L Thigh
+      parentName: Forest Creature Pelvis
+      position: {x: 0.00000015258789, y: 0.00000017749855, z: 0.0969031}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1, y: 0.9999997, z: 0.99999994}
+    - name: Forest Creature L Calf
+      parentName: Forest Creature L Thigh
+      position: {x: -0.48534286, y: 0.000000009536743, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: Forest Creature L Foot
+      parentName: Forest Creature L Calf
+      position: {x: -0.4461353, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000007, z: 1.0000004}
+    - name: Forest Creature L Toe0
+      parentName: Forest Creature L Foot
+      position: {x: -0.07149489, y: 0.09201081, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000013, y: 1.0000002, z: 1.0000012}
+    - name: Forest Creature R Thigh
+      parentName: Forest Creature Pelvis
+      position: {x: -0.00000015258789, y: -0.000000091271914, z: -0.0969031}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000005}
+    - name: Forest Creature R Calf
+      parentName: Forest Creature R Thigh
+      position: {x: -0.4853429, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1}
+    - name: Forest Creature R Foot
+      parentName: Forest Creature R Calf
+      position: {x: -0.44613537, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000006}
+    - name: Forest Creature R Toe0
+      parentName: Forest Creature R Foot
+      position: {x: -0.07149489, y: 0.09201081, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000012, y: 1.0000002, z: 1.0000011}
+    - name: Forest Creature Mesh
+      parentName: Forest Creature(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

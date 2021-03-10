@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Demon All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Demon
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Back Loincloth
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Front Loincloth
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon L Thigh
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon L Thigh/Demon L Calf
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon L Thigh/Demon L Calf/Demon L Foot
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon L Thigh/Demon L Calf/Demon L Foot/Demon L Toe0
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon R Thigh
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon R Thigh/Demon R Calf
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon R Thigh/Demon R Calf/Demon R Foot
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon R Thigh/Demon R Calf/Demon R Foot/Demon R Toe0
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand/Demon L Finger0
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand/Demon L Finger0/Demon L Finger01
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand/Demon L Finger1
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand/Demon L Finger1/Demon L Finger11
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand/Demon L Finger2
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon L Clavicle/Demon
+      L UpperArm/Demon L Forearm/Demon L Hand/Demon L Finger2/Demon L Finger21
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon Neck
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon Neck/Demon
+      Head
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand/Demon R Finger0
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand/Demon R Finger0/Demon R Finger01
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand/Demon R Finger1
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand/Demon R Finger1/Demon R Finger11
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand/Demon R Finger2
+    m_Weight: 1
+  - m_Path: Demon/Demon Pelvis/Demon Spine/Demon Spine1/Demon Spine2/Demon R Clavicle/Demon
+      R UpperArm/Demon R Forearm/Demon R Hand/Demon R Finger2/Demon R Finger21
+    m_Weight: 1
+  - m_Path: Demon Mesh
+    m_Weight: 1

@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Alien All
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Alien
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien L Thigh
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien L Thigh/Alien L Calf
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien L Thigh/Alien L Calf/Alien L Foot
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien L Thigh/Alien L Calf/Alien L Foot/Alien L Toe0
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien R Thigh
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien R Thigh/Alien R Calf
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien R Thigh/Alien R Calf/Alien R Foot
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien R Thigh/Alien R Calf/Alien R Foot/Alien R Toe0
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand/Alien L Finger0
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand/Alien L Finger0/Alien L Finger01
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand/Alien L Finger1
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand/Alien L Finger1/Alien L Finger11
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand/Alien L Finger2
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien L Clavicle/Alien
+      L UpperArm/Alien L Forearm/Alien L Hand/Alien L Finger2/Alien L Finger21
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien Neck
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien Neck/Alien
+      Head
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien Neck/Alien
+      Head/Alien Jaw
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand/Alien R Finger0
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand/Alien R Finger0/Alien R Finger01
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand/Alien R Finger1
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand/Alien R Finger1/Alien R Finger11
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand/Alien R Finger2
+    m_Weight: 1
+  - m_Path: Alien/Alien Pelvis/Alien Spine/Alien Spine1/Alien Spine2/Alien R Clavicle/Alien
+      R UpperArm/Alien R Forearm/Alien R Hand/Alien R Finger2/Alien R Finger21
+    m_Weight: 1
+  - m_Path: Alien Mesh
+    m_Weight: 1

@@ -1,0 +1,681 @@
+fileFormatVersion: 2
+guid: d2978ed6b1719b746aee112d364fb57c
+timeCreated: 1545170066
+licenseType: Store
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Monster 1
+    100004: Monster 1 Head
+    100006: Monster 1 L Calf
+    100008: Monster 1 L Clavicle
+    100010: Monster 1 L Finger0
+    100012: Monster 1 L Finger01
+    100014: Monster 1 L Finger1
+    100016: Monster 1 L Finger11
+    100018: Monster 1 L Finger2
+    100020: Monster 1 L Finger21
+    100022: Monster 1 L Foot
+    100024: Monster 1 L Forearm
+    100026: Monster 1 L Hand
+    100028: Monster 1 L Jaw
+    100030: Monster 1 L Thigh
+    100032: Monster 1 L Toe0
+    100034: Monster 1 L UpperArm
+    100036: Monster 1 Mesh
+    100038: Monster 1 Neck
+    100040: Monster 1 Pelvis
+    100042: Monster 1 R Calf
+    100044: Monster 1 R Clavicle
+    100046: Monster 1 R Finger0
+    100048: Monster 1 R Finger01
+    100050: Monster 1 R Finger1
+    100052: Monster 1 R Finger11
+    100054: Monster 1 R Finger2
+    100056: Monster 1 R Finger21
+    100058: Monster 1 R Foot
+    100060: Monster 1 R Forearm
+    100062: Monster 1 R Hand
+    100064: Monster 1 R Jaw
+    100066: Monster 1 R Thigh
+    100068: Monster 1 R Toe0
+    100070: Monster 1 R UpperArm
+    100072: Monster 1 Spine
+    100074: Monster 1 Spine1
+    100076: Monster 1 Spine2
+    100078: Monster 1 Tail
+    100080: Monster 1 Tail02
+    100082: Monster 1 Tongue
+    100084: Monster 1 Tongue02
+    100086: Monster 1 Tongue03
+    400000: //RootNode
+    400002: Monster 1
+    400004: Monster 1 Head
+    400006: Monster 1 L Calf
+    400008: Monster 1 L Clavicle
+    400010: Monster 1 L Finger0
+    400012: Monster 1 L Finger01
+    400014: Monster 1 L Finger1
+    400016: Monster 1 L Finger11
+    400018: Monster 1 L Finger2
+    400020: Monster 1 L Finger21
+    400022: Monster 1 L Foot
+    400024: Monster 1 L Forearm
+    400026: Monster 1 L Hand
+    400028: Monster 1 L Jaw
+    400030: Monster 1 L Thigh
+    400032: Monster 1 L Toe0
+    400034: Monster 1 L UpperArm
+    400036: Monster 1 Mesh
+    400038: Monster 1 Neck
+    400040: Monster 1 Pelvis
+    400042: Monster 1 R Calf
+    400044: Monster 1 R Clavicle
+    400046: Monster 1 R Finger0
+    400048: Monster 1 R Finger01
+    400050: Monster 1 R Finger1
+    400052: Monster 1 R Finger11
+    400054: Monster 1 R Finger2
+    400056: Monster 1 R Finger21
+    400058: Monster 1 R Foot
+    400060: Monster 1 R Forearm
+    400062: Monster 1 R Hand
+    400064: Monster 1 R Jaw
+    400066: Monster 1 R Thigh
+    400068: Monster 1 R Toe0
+    400070: Monster 1 R UpperArm
+    400072: Monster 1 Spine
+    400074: Monster 1 Spine1
+    400076: Monster 1 Spine2
+    400078: Monster 1 Tail
+    400080: Monster 1 Tail02
+    400082: Monster 1 Tongue
+    400084: Monster 1 Tongue02
+    400086: Monster 1 Tongue03
+    2100000: Monster 1
+    2300000: //RootNode
+    2300002: Monster 1 Mesh
+    3300000: //RootNode
+    3300002: Monster 1 Mesh
+    4300000: Monster 1
+    4300002: Monster 1 Mesh
+    9500000: //RootNode
+    13700000: Monster 1 Mesh
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Monster 1
+    second: {fileID: 2100000, guid: b240e5ede1c2b414baafc5445e321bee, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: Monster 1 Pelvis
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 Spine1
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 Neck
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 Head
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 L Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Finger1
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Finger11
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Finger2
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 R Finger21
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Monster 1 Spine2
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: Monster 1(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0.0000004690563, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster 1
+      parentName: Monster 1(Clone)
+      position: {x: -1.0223232e-10, y: 0.6355238, z: -7.854373e-10}
+      rotation: {x: -0.50000036, y: 0.49999964, z: 0.49999964, w: 0.50000036}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: Monster 1 Pelvis
+      parentName: Monster 1
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.5, y: -0.5, z: -0.5, w: -0.5}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Monster 1 Spine
+      parentName: Monster 1 Pelvis
+      position: {x: -0.08822841, y: -0.00017223455, z: 0.00000012259399}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.000001, z: 1.0000006}
+    - name: Monster 1 Spine1
+      parentName: Monster 1 Spine
+      position: {x: -0.22290161, y: -0.00017230987, z: -4.7792126e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000001}
+    - name: Monster 1 Spine2
+      parentName: Monster 1 Spine1
+      position: {x: -0.22290152, y: -0.00017234802, z: -4.778121e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1.0000001}
+    - name: Monster 1 Neck
+      parentName: Monster 1 Spine2
+      position: {x: -0.2228894, y: -0.00021625518, z: -5.998299e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000001}
+    - name: Monster 1 Head
+      parentName: Monster 1 Neck
+      position: {x: -0.27565688, y: 0.029574202, z: -0.000000090868994}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000002}
+    - name: Monster 1 L Jaw
+      parentName: Monster 1 Head
+      position: {x: -0.063739315, y: 0.067997664, z: 0.13595155}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.000001}
+    - name: Monster 1 R Jaw
+      parentName: Monster 1 Head
+      position: {x: -0.063739315, y: 0.067998424, z: -0.13595113}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1.0000004}
+    - name: Monster 1 Tongue
+      parentName: Monster 1 Head
+      position: {x: 0.13618286, y: 0.13938667, z: 0.00000039837394}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 1.0000001, z: 1.0000001}
+    - name: Monster 1 Tongue02
+      parentName: Monster 1 Tongue
+      position: {x: -0.12959625, y: -0.000093841554, z: -2.6018823e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999994, y: 1.0000002, z: 0.9999999}
+    - name: Monster 1 Tongue03
+      parentName: Monster 1 Tongue02
+      position: {x: -0.12132042, y: -0.00007369995, z: -2.0401784e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1, z: 1}
+    - name: Monster 1 L Clavicle
+      parentName: Monster 1 Spine2
+      position: {x: -0.17151329, y: 0.000040779112, z: 0.056847803}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: -0.7071068, w: 0.000000030908623}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.99999964}
+    - name: Monster 1 L UpperArm
+      parentName: Monster 1 L Clavicle
+      position: {x: -0.3172028, y: 0.000000038146972, z: 0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000008}
+    - name: Monster 1 L Forearm
+      parentName: Monster 1 L UpperArm
+      position: {x: -0.36112976, y: 0.000000047683713, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.999999, y: 1.0000006, z: 1.0000005}
+    - name: Monster 1 L Hand
+      parentName: Monster 1 L Forearm
+      position: {x: -0.30256563, y: -0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: -0.7071068}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: Monster 1 L Finger0
+      parentName: Monster 1 L Hand
+      position: {x: -0.12646997, y: 0.008060532, z: -0.109132804}
+      rotation: {x: 0, y: 0.3826835, z: 0, w: -0.9238795}
+      scale: {x: 0.99999964, y: 0.9999997, z: 1.0000006}
+    - name: Monster 1 L Finger01
+      parentName: Monster 1 L Finger0
+      position: {x: -0.12610497, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000001}
+    - name: Monster 1 L Finger1
+      parentName: Monster 1 L Hand
+      position: {x: -0.2754162, y: 0.034261093, z: -0.06300819}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000006}
+    - name: Monster 1 L Finger11
+      parentName: Monster 1 L Finger1
+      position: {x: -0.12551971, y: 0.000000038146972, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 0.9999994, z: 1.0000001}
+    - name: Monster 1 L Finger2
+      parentName: Monster 1 L Hand
+      position: {x: -0.2626681, y: 0.03499275, z: 0.06807842}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999917}
+    - name: Monster 1 L Finger21
+      parentName: Monster 1 L Finger2
+      position: {x: -0.123256415, y: 0.000000076293944, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999964, y: 1.0000001, z: 0.99999964}
+    - name: Monster 1 R Clavicle
+      parentName: Monster 1 Spine2
+      position: {x: -0.17151329, y: 0.000041084288, z: -0.056847803}
+      rotation: {x: 0.7071068, y: -0.000000030908623, z: 0.7071068, w: -0.000000030908623}
+      scale: {x: 1.0000001, y: 0.9999989, z: 0.99999964}
+    - name: Monster 1 R UpperArm
+      parentName: Monster 1 R Clavicle
+      position: {x: -0.31720275, y: 0.000000038146972, z: -0.000000076293944}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000008}
+    - name: Monster 1 R Forearm
+      parentName: Monster 1 R UpperArm
+      position: {x: -0.36112982, y: 0.000000057220458, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000004}
+    - name: Monster 1 R Hand
+      parentName: Monster 1 R Forearm
+      position: {x: -0.3025657, y: 0.000000019073486, z: 0}
+      rotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000004}
+    - name: Monster 1 R Finger0
+      parentName: Monster 1 R Hand
+      position: {x: -0.12646995, y: 0.008060455, z: 0.10913288}
+      rotation: {x: 0, y: 0.38268346, z: 0, w: 0.9238795}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.000001}
+    - name: Monster 1 R Finger01
+      parentName: Monster 1 R Finger0
+      position: {x: -0.12610492, y: 0.000000038146972, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.9999996, y: 0.9999999, z: 1}
+    - name: Monster 1 R Finger1
+      parentName: Monster 1 R Hand
+      position: {x: -0.27541617, y: 0.034261014, z: 0.06300827}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000007}
+    - name: Monster 1 R Finger11
+      parentName: Monster 1 R Finger1
+      position: {x: -0.12551971, y: 0, z: 0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000007}
+    - name: Monster 1 R Finger2
+      parentName: Monster 1 R Hand
+      position: {x: -0.2626681, y: 0.03499275, z: -0.06807827}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000007}
+    - name: Monster 1 R Finger21
+      parentName: Monster 1 R Finger2
+      position: {x: -0.12325645, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000002}
+    - name: Monster 1 Tail
+      parentName: Monster 1 Pelvis
+      position: {x: -0.03322361, y: -0.1368158, z: 0.0000004234728}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999998}
+    - name: Monster 1 Tail02
+      parentName: Monster 1 Tail
+      position: {x: -0.14809132, y: -0.00011795044, z: -3.2698153e-10}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000005}
+    - name: Monster 1 L Thigh
+      parentName: Monster 1 Pelvis
+      position: {x: 0.00000019073485, y: 0.00000021192935, z: 0.13278751}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1.0000004}
+    - name: Monster 1 L Calf
+      parentName: Monster 1 L Thigh
+      position: {x: -0.24713044, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.9999999}
+    - name: Monster 1 L Foot
+      parentName: Monster 1 L Calf
+      position: {x: -0.2689322, y: -0.000000009536743, z: 0.000000038146972}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000006}
+    - name: Monster 1 L Toe0
+      parentName: Monster 1 L Foot
+      position: {x: -0.088185854, y: 0.2855317, z: 0}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000006, y: 0.9999994, z: 1}
+    - name: Monster 1 R Thigh
+      parentName: Monster 1 Pelvis
+      position: {x: -0.00000019073485, y: -0.00000015637009, z: -0.13278751}
+      rotation: {x: 0, y: 1, z: 0, w: -0.00000004371139}
+      scale: {x: 1.0000004, y: 0.99999994, z: 1.0000007}
+    - name: Monster 1 R Calf
+      parentName: Monster 1 R Thigh
+      position: {x: -0.24713042, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1.0000004}
+    - name: Monster 1 R Foot
+      parentName: Monster 1 R Calf
+      position: {x: -0.2689322, y: -0.000000019073486, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1.0000005}
+    - name: Monster 1 R Toe0
+      parentName: Monster 1 R Foot
+      position: {x: -0.088185824, y: 0.2855317, z: -0.000000019073486}
+      rotation: {x: 0, y: 0, z: 0.7071068, w: -0.7071068}
+      scale: {x: 1.0000007, y: 0.99999946, z: 1}
+    - name: Monster 1 Mesh
+      parentName: Monster 1(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071068}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 1
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
